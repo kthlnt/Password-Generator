@@ -6,7 +6,7 @@ This is a password generator created with user preference in mind. The user is a
 
 This is highly usable in order for anyone to create a good, strong password in this day and age instead of reusing an old and most likely data breached password.
 
-(https://user-images.githubusercontent.com/116473087/203864353-b2456b11-c5a9-4496-8d7b-320f0dccf276.png)
+[passwordgen](https://user-images.githubusercontent.com/116473087/203864353-b2456b11-c5a9-4496-8d7b-320f0dccf276.png)
 
 ## License
 
