@@ -6,6 +6,7 @@ This is a password generator created with user preference in mind. The user is a
 
 This is highly usable in order for anyone to create a good, strong password in this day and age instead of reusing an old and most likely data breached password.
 
+https://kthlnt.github.io/Password-Generator/
 
 ![passwordgen](https://user-images.githubusercontent.com/116473087/203864456-cf692e27-5d8f-46e8-bb70-4084b42bc80d.png)
 
